@@ -1,0 +1,4 @@
+The product uses an if statement to implement a simple bank transaction program
+This banking system has 11 functions, which are account opening, inquiry, withdrawal, deposit, transfer, password change, freezing, unfreezing, card replenishing, account cancellation and exit. The functions are quite complete.
+In this system, various purposes can be achieved by defining the name of the account holder. For example, the program defaults Jennifer as the administrator of this system.
+Due to the lack of understanding of the credit relationship, this procedure does not involve overdue and other related problems. I hope it can be solved through continuous learning.I believe this is also a pity of the software
